@@ -3,4 +3,4 @@
 
 ## Screenshot
 
-![dashboard preview](https://github.com/akku08/Sales-Analysis/assets/Picture2.png)
+![dashboard preview](https://github.com/akku08/Sales-Analysis/Picture2.png)
