@@ -5,7 +5,7 @@ This React application is a restaurant platform where users can explore menu ite
 The application is deployed and accessible at https://app-food-tomato.netlify.app/
 
 <br>
-#Features
+#Features<br>
 
  Sign-in Page: Users can sign in to access additional features <br>
  <br>
