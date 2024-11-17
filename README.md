@@ -37,9 +37,6 @@ Responsive Design: The application is responsive and suitable for various screen
 ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/675a6a1c-e7db-4464-82e4-9c6755ddc715)
 
 
-# Folder Structure
-
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/872837e1-bb58-467b-82f5-73fe788b7e11)
 # Tech Stack
 The application is built using the following technologies:
 
